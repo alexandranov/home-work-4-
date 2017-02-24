@@ -1,0 +1,65 @@
+html{background-color: FAFAFA}
+
+
+table
+{
+    width:350px;
+    font-size: 12px; 
+    font-family: Arial; 
+}
+.event
+{
+    color: #C2C2C2; 
+    padding-left: 20px; 
+    padding-top: 5px
+}
+.content
+{
+    font-size: 18px; 
+    padding-left: 20px; 
+    padding-top: 5px; 
+    padding-right: 20px;
+}
+.line1
+{
+    border: none; 
+    background-color: #C2C2C2; 
+    height: 1px;
+}
+.line
+{
+    border: none; 
+    background-color:#D50101; 
+    height: 2px;
+}
+.redwords
+{    
+    color: #D50101; 
+    padding-left: 20px; 
+    padding-top: 0px;
+}
+.Good
+{  
+    color: #39b649; 
+    font-size: 14px; 
+    text-align: right; 
+    padding-top: 3px; 
+    padding-right: 28px; 
+    font-weight: bolder
+}
+.bt
+{
+    width: 50px; 
+    height: 50px; 
+    padding-top: 10px; 
+    padding-right: 20px;
+}
+div
+{
+    text-align: center
+}
+iframe
+{
+    height: 464px; 
+    width: 604px;
+}
